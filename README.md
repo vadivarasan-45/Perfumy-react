@@ -25,5 +25,4 @@ You can see the live demo of this project at https://perfumy-react-bice-omega.ve
 
 1. **Download or clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/perfumey-react-home.git
-   cd perfumey-react-home
+   git clone https://github.com/vadivarasan-45/Perfumy-react.git
